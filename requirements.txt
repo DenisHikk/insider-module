@@ -16,7 +16,7 @@ DAWG-Python==0.7.2
 fastapi==0.104.1
 uvicorn==0.24.0
 python-dotenv==1.0.0
-requests==2.31.0
+requests==2.32.2
 loguru==0.7.2
 torch==2.7.0
 torchvision==0.22.0
