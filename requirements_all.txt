@@ -66,7 +66,7 @@ pytesseract==0.3.13
 python-bidi==0.6.6
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.0
-python-multipart==0.0.6
+python-multipart==0.0.18
 pytz==2025.2
 PyYAML==6.0.2
 razdel==0.5.0
