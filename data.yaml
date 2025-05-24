@@ -1,0 +1,4 @@
+train: ./ml/datasets/images/train/
+val: ./ml/datasets/images/val/
+nc: 2 
+names: 

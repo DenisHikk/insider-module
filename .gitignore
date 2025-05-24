@@ -1,0 +1,23 @@
+# Виртуальное окружение Python
+venv/
+.env/
+.venv/
+
+# Кэш Python (__pycache__)
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Файлы настроек и среды
+.env
+*.env
+
+# Прочие временные файлы
+*.log
+*.sqlite
+*.sublime-workspace
+
+# IDE-specific
+.vscode/
+.idea/

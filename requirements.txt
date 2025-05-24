@@ -1,0 +1,16 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+requests==2.31.0
+Pillow==10.1.0
+easyocr==1.7.1
+natasha==1.6.0
+python-dotenv==1.0.0
+SQLAlchemy==2.0.23
+schedule==1.2.1
+loguru==0.7.2
+opencv-python==4.8.1.78
+numpy==1.26.2
+ultralytics==8.0.196
+pytesseract==0.3.13
+hunspell==0.5.5
